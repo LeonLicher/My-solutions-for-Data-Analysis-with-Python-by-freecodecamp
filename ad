@@ -1,0 +1,12 @@
+[33mcommit 68ee43898196c55596d078620c2989c18b0e6666[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: LeonLicher <licher.leon@gmail.com>
+Date:   Tue Nov 28 00:32:50 2023 +0100
+
+    my solution for Data Analysis with Python Projects ---  Mean-Variance-Standard Deviation Calculator by freeCodecamp
+
+ __pycache__/mean_var_std.cpython-310.pyc | Bin [31m0[m -> [32m1442[m bytes
+ __pycache__/test_module.cpython-310.pyc  | Bin [31m0[m -> [32m151[m bytes
+ main.py                                  |   8 [32m++++[m
+ mean_var_std.py                          |  66 [32m+++++++++++++++++++++++++++++++[m
+ test_module.py                           |   0
+ 5 files changed, 74 insertions(+)
